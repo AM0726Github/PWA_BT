@@ -18,7 +18,7 @@ THEN the deposits or expenses added while they were offline are added to their t
 
 ## Screenshot
 
-![A screenshot of the application](./assets/Images/BudgetTracker.gif)
+![A screenshot of the application](Assets/Images/BudgetTracker.gif)
 
 ## Live Deployment
 [View the Live app with Heroku.](https://evening-lake-38762.herokuapp.com/)
